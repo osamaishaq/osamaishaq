@@ -11,13 +11,13 @@
 
 
 ### Connect with me:
-<a href="#">
+<a href="https://www.linkedin.com/in/osama-ishaq-500b36177/">
    <img align="left" alt="Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/osama-ishaq-500b36177/">
+  <a href="osama.ishaq10@gmail.com">
     <img align="left" alt="Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="#">
+  <a href="https://twitter.com/osamaishaq10">
     <img align="left" alt="Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
   </a>
   <a href="#">
