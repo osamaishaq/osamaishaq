@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently pursuing my Bachelor of Science in Computer Science
+- 🔭 I’m currently pursuing my Bachelor`s Degree in Computer Science
 
 - 🌱 I’m currently learning **React Native**
 
