@@ -12,9 +12,9 @@
 
 ### Connect with me:
 <a href="#">
-   <img align="left" alt="Linkedin" width="24px" src="https://www.linkedin.com/in/osama-ishaq-500b36177/" />
+   <img align="left" alt="Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="hamzayousuf175@gmail.com">
+  <a href="https://www.linkedin.com/in/osama-ishaq-500b36177/">
     <img align="left" alt="Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
   <a href="#">
