@@ -12,7 +12,7 @@
 
 ### Connect with me:
 <a href="#">
-   <img align="left" alt="Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="left" alt="Linkedin" width="24px" src="https://www.linkedin.com/in/osama-ishaq-500b36177/" />
   </a>
   <a href="hamzayousuf175@gmail.com">
     <img align="left" alt="Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
