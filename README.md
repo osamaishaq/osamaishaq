@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently pursuing my Bachelor`s Degree in Computer Science
+- 🔭 Software Developer at Ibex
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Module Federation & Server Sider Rendering For React**
 
 - 👯 I’m looking to collaborate on Open-source Projects.
 
